@@ -1,0 +1,11 @@
+body{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    padding:20px;
+}
+
+label{
+    width: 70px;
+    display: inline-block;
+}
